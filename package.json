@@ -1,0 +1,19 @@
+{
+  "name": "vk-task",
+  "version": "1.0.0",
+  "description": "Jest intrp",
+  "main": "frontFormToServer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "unit"
+  ],
+  "author": "Leo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
